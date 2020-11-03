@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    float: left;
+    /*display: flex;*/
+    background-color: rgb(234, 247, 255);
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
+.img-div img {
+    width: 250px;
+}
+
+.menu {
+    margin-top: 0px;
+}
+
+main {
+    margin-top: 10px;
+    margin: 25px;
+}
+
+.content1 {
+    width: 100%;
+    background-color: rgb(238, 238, 238);
+    padding: 8px;
+}
+
+.content {
+    width: 100%;
+    padding: 8px;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+h4 {
+    font-size: 14px;
+    font-weight: 600;
+}
